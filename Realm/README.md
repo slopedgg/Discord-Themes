@@ -11,7 +11,7 @@ https://raw.githubusercontent.com/slopedgg/Discord-Themes/main/Realm/Realm.theme
 
 ## Variables
 
-** **Indicates that it has two values for both the dark and light themes of Discord. Instead of using `:root`, use `.theme-dark` or `.theme-light`.**
+**Indicates that it has two values for both the dark and light themes of Discord. Instead of using `:root`, use `.theme-dark` or `.theme-light`.**
 
 #### App elements
  - `--app-font` - The font used throughout the entire theme. The font must either be installed or imported. Default: `"Google Sans"`
