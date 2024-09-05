@@ -5,12 +5,12 @@
 
 [Download here](https://capnkitten.github.io/BetterDiscord/Download/?theme=Material-Discord&addon=material-you) or use as import with the code below.
 ```css
-@import url(https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/addons/material-you/source.css);
+@import url(https://raw.githubusercontent.com/slopedgg/Discord-Themes/main/Realm/css/addons/material-you/source.css);
 ```
 
 Vencord link
 ```
-https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/addons/material-you/source.css
+https://raw.githubusercontent.com/slopedgg/Discord-Themes/main/Realm/css/addons/material-you/source.css
 ```
 
 <hr>

@@ -38,22 +38,22 @@
 }
 .submenu-1apzyU[aria-activedescendant*=account-status-picker] .item-1OdjEX#account-status-picker--online {
   --status-color: rgb(var(--status-online));
-  --status-icon-url: url(https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/files/icons/outline/check_dark.svg);
+  --status-icon-url: url(https://raw.githubusercontent.com/slopedgg/Discord-Themes/main/Realm/files/icons/outline/check_dark.svg);
   --status-animation-delay: 100ms;
 }
 .submenu-1apzyU[aria-activedescendant*=account-status-picker] .item-1OdjEX#account-status-picker--idle {
   --status-color: rgb(var(--status-idle));
-  --status-icon-url: url(https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/files/icons/outline/alarm_dark.svg);
+  --status-icon-url: url(https://raw.githubusercontent.com/slopedgg/Discord-Themes/main/Realm/files/icons/outline/alarm_dark.svg);
   --status-animation-delay: 140ms;
 }
 .submenu-1apzyU[aria-activedescendant*=account-status-picker] .item-1OdjEX#account-status-picker--dnd {
   --status-color: rgb(var(--status-dnd));
-  --status-icon-url: url(https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/files/icons/outline/remove_dark.svg);
+  --status-icon-url: url(https://raw.githubusercontent.com/slopedgg/Discord-Themes/main/Realm/files/icons/outline/remove_dark.svg);
   --status-animation-delay: 180ms;
 }
 .submenu-1apzyU[aria-activedescendant*=account-status-picker] .item-1OdjEX#account-status-picker--invisible {
   --status-color: rgb(var(--status-invisibile));
-  --status-icon-url: url(https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/files/icons/outline/visibility_off_dark.svg);
+  --status-icon-url: url(https://raw.githubusercontent.com/slopedgg/Discord-Themes/main/Realm/files/icons/outline/visibility_off_dark.svg);
   --status-animation-delay: 220ms;
 }
 .submenu-1apzyU[aria-activedescendant*=account-status-picker] .item-1OdjEX .statusItem-2a1giL {

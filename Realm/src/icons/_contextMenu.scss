@@ -304,14 +304,14 @@
 
         &[id] {
             &:after {
-                -webkit-mask-image: url(https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/files/icons/outline/settings.svg);
+                -webkit-mask-image: url(https://raw.githubusercontent.com/slopedgg/Discord-Themes/main/Realm/files/icons/outline/settings.svg);
             }
         }
 
         @each $option, $icon in $icons {
             &##{$option} {
                 &:after {
-                	-webkit-mask-image: url(https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/files/icons/outline/#{$icon}.svg);
+                	-webkit-mask-image: url(https://raw.githubusercontent.com/slopedgg/Discord-Themes/main/Realm/files/icons/outline/#{$icon}.svg);
                 }
             }
         }
@@ -460,14 +460,14 @@
 
         &[id] {
             &:before {
-                -webkit-mask-image: url(https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/files/icons/outline/settings.svg);
+                -webkit-mask-image: url(https://raw.githubusercontent.com/slopedgg/Discord-Themes/main/Realm/files/icons/outline/settings.svg);
             }
         }
 
         @each $option, $icon in $icons {
             &##{$option} {
                 &:before {
-                    -webkit-mask-image: url(https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/files/icons/outline/#{$icon}.svg);
+                    -webkit-mask-image: url(https://raw.githubusercontent.com/slopedgg/Discord-Themes/main/Realm/files/icons/outline/#{$icon}.svg);
                 }
             }
         }

@@ -5,12 +5,12 @@
 
 [Download here](https://capnkitten.github.io/BetterDiscord/Download/?theme=Material-Discord&addon=custom-themes) or use as import with the code below.
 ```css
-@import url(https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/addons/custom-themes/source.css);
+@import url(https://raw.githubusercontent.com/slopedgg/Discord-Themes/main/Realm/css/addons/custom-themes/source.css);
 ```
 
 Vencord link
 ```
-https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/addons/custom-themes/source.css
+https://raw.githubusercontent.com/slopedgg/Discord-Themes/main/Realm/css/addons/custom-themes/source.css
 ```
 
 [paypal-logo]: https://img.shields.io/static/v1?label=PayPal&message=Donate&style=flat&logo=paypal&color=blue
