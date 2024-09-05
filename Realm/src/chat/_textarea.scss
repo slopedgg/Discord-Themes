@@ -26,7 +26,7 @@
 
 	%channelTextAreaScrollable {
 		background-color: var(--main-textarea-color);
-		border-radius: var(--main-textarea-radius) !important;
+		border-radius: var(--main-textarea-radius);
 		opacity: 1;
 
 		&%channelTextAreaReplyBarConnected {
