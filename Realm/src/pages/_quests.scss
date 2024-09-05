@@ -1,0 +1,109 @@
+/*
+ *
+ *  QUESTS
+ *
+ */
+
+/* QUESTS -> HEADER  */
+
+%questsHeaderContainer {
+    border-top-right-radius: var(--card-radius-big);
+    overflow: hidden;
+}
+
+%questsHeaderBackdrop {
+    background-color: var(--chat-color);
+    border-top-right-radius: var(--card-radius-big);
+    opacity: 1 !important;
+}
+
+/* QUESTS -> BANNER */
+
+%questsBannerContainer {
+    position: relative;
+    width: calc(100% - 40px);
+    height: 200px;
+    min-height: 200px;
+    max-height: 200px;
+    margin-top: 80px;
+    margin-left: 20px;
+    padding-top: 0;
+    border-radius: var(--card-radius-big);
+    box-sizing: border-box;
+
+    %button {
+        --button-padding: var(--button-padding-has-icon-right);
+
+        height: var(--button-height);
+        padding: var(--button-padding);
+
+        svg path {
+            fill: currentColor;
+        }
+    }
+}
+
+%questsBannerContent {
+    max-width: unset;
+}
+
+%questsBannerImage {
+    height: 100%;
+    border-radius: inherit;
+
+    %questsBannerGradient {
+        display: none;
+    }
+}
+
+/* QUESTS -> CONTENT AREA */
+
+%questsContainer {
+    background-color: var(--chat-color) !important;
+}
+
+%questsContentContainer {
+    background: none !important;
+    backdrop-filter: none !important;
+}
+
+/* QUESTS -> CARDS */
+
+%questCard {
+    background-color: var(--card-color-filled);
+    border-radius: var(--card-radius-big);
+}
+
+%questCardImageContainer {
+    border-radius: var(--card-radius-big) var(--card-radius-big) 0 0;
+    background-color: var(--card-color-filled);
+
+    %questCardHeroAssetWrapper {
+        border-radius: var(--card-radius-big);
+    }
+
+    %questCardImageOverlay {
+        display: none;
+    }
+
+    %questCardImageBottowRow {
+        %textSmMedium {
+            padding: 0 8px;
+            background-color: var(--card-button-color);
+            border-radius: 9px;
+            color: var(--text-normal) !important;
+        }
+    }
+}
+
+%questCardSubmenuWrapper {
+    background-color: var(--card-button-color) !important;
+}
+
+%questCardRewardDescriptionContainer {
+    background-color: transparent;
+
+    %questCardRewardTileAsset {
+        border-radius: 50%;
+    }
+}
