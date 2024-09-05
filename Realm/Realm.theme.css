@@ -7,10 +7,10 @@
  * @website http://github.com/slopedgg
  */
 
- @import url(https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/source.css);
+ @import url(https://raw.githubusercontent.com/slopedgg/Discord-Themes/main/Realm/css/main.source.css);
 
- /* Material You addon */
- @import url(https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/addons/material-you/source.css);
+ /* Addon */
+ @import url(https://raw.githubusercontent.com/slopedgg/Discord-Themes/main/Realm/css/addon.source.css);
  
  /* MATERIAL YOU DARK THEME SETTINGS */
  .theme-dark {
