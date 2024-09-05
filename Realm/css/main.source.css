@@ -2089,7 +2089,7 @@ html:not(.app-focused) .typeWindows_a934d8 .winButton_a934d8.winButtonMinMax_a93
 }
 .form_a7d72e .scrollableContainer_d0696b {
   background-color: var(--main-textarea-color);
-  border-radius: var(--main-textarea-radius)!important;
+  border-radius: var(--main-textarea-radius) !important;
   opacity: 1;
 }
 .form_a7d72e .scrollableContainer_d0696b.hasConnectedBar_d0696b {
@@ -13195,7 +13195,7 @@ body:active .menu_ad5fac:not(:active) {
 
 .scroller_d90b3d {
   padding: 8px 0 !important;
-  overflow: hidden!important
+  overflow: hidden !important
 }
 .scroller_d90b3d::-webkit-scrollbar {
   width: 0 !important;
