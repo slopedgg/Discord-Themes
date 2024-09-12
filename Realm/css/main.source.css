@@ -13516,9 +13516,9 @@ body:active .container_e664f3:not(:active) {
 .userProfileOuterThemed_c69a7b .listRow_e4be58 {
   --menu-item-hover: var(--profile-body-background-hover);
 }
-.userProfileOuterThemed_c69a7b .markup_f8f345 a {
+/*.userProfileOuterThemed_c69a7b .markup_f8f345 a {
   color: var(--profile-gradient-secondary-color);
-}
+}*/
 .userProfileOuterThemed_c69a7b .flowerStar_c91f7d path {
   fill: var(--profile-gradient-button-color);
 }
