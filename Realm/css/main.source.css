@@ -6915,7 +6915,7 @@ div[role=radiogroup].group_d25d19 {
  *
  */
 .markup_f8f345 a {
-  color: hsl(var(--accent-hsl));
+  color: hsl(var(--accent-hsl)) !important;
 }
 .markup_f8f345 pre, .markup_f8f345 pre *, .markup_f8f345 code.inline, .markup_f8f345 .codeBlockText_cdb578, .markup_f8f345 .codeBlockText_cdb578 *, .markup_f8f345 .codeLine_cdb578, .markup_f8f345 .codeLine_cdb578 *, .markup_f8f345 .codeBlockLang_cdb578, .markup_f8f345 .codeBlockLang_cdb578 *, .markup_f8f345 .codeBlockSyntax_cdb578, .markup_f8f345 .codeBlockSyntax_cdb578 *, .markup_f8f345 .syntaxAfter_cdb578, .markup_f8f345 .syntaxAfter_cdb578 *, .markup_f8f345 .syntaxBefore_cdb578, .markup_f8f345 .syntaxBefore_cdb578 * {
   --app-font: var(--code-font);
@@ -13516,9 +13516,6 @@ body:active .container_e664f3:not(:active) {
 .userProfileOuterThemed_c69a7b .listRow_e4be58 {
   --menu-item-hover: var(--profile-body-background-hover);
 }
-/*.userProfileOuterThemed_c69a7b .markup_f8f345 a {
-  color: var(--profile-gradient-secondary-color);
-}*/
 .userProfileOuterThemed_c69a7b .flowerStar_c91f7d path {
   fill: var(--profile-gradient-button-color);
 }
